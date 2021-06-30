@@ -1,5 +1,6 @@
-#Sample Out put screen shot.
+# Sample Out put screen shot.
 ![image](https://user-images.githubusercontent.com/25552209/124019940-4e680c00-da07-11eb-9f34-3b1402495d09.png)
+
 ![image](https://user-images.githubusercontent.com/25552209/124019980-5922a100-da07-11eb-9594-3776f12c7cd7.png)
 
 
